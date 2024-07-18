@@ -1,0 +1,24 @@
+from PIL import ImageDraw
+
+# Load the enhanced image
+image = Image.open(enhanced_image_path)
+
+# Define the color to change the wall to (e.g., a fresh white color)
+new_wall_color = (255, 255, 255)  # White color
+
+# Create a draw object
+draw = ImageDraw.Draw(image)
+
+# Define the area of the wall to change the color
+# Here we specify a bounding box that approximately covers the green wall area
+# (The exact coordinates might need to be fine-tuned based on the specific image)
+wall_area = [(170, 100), (430, 320)]  # Example coordinates
+
+# Change the color of the wall area
+draw.rectangle(wall_area, fill=new_wall_color)
+
+# Save the image with the new wall color
+new_wall_image_path = "/mnt/data/new_wall_IMG20240603072125.jpg"
+image.save(new_wall_image_path)
+
+new_wall_image_path
