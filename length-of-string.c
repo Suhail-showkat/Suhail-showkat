@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    char s[] = "Programming is fun";
+    char s[] = "Programming is fun for me  ";
     int i;
 
     for (i = 0; s[i] != '\0'; ++i);
