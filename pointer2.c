@@ -1,3 +1,4 @@
+//displays the contents of an integer array using pointers:
 #include <stdio.h>
 
 int main() {
@@ -14,16 +15,13 @@ int main() {
         scanf("%d", &a[i]);
     }
 
-    // Point to the first element of the array
-    p = a;  // or p = &a[0];
-
-    printf("\n\n");
-    printf("Values of the array are:\n");
+    // Set pointer to the beginning of the array
+    p = a;
 
     // Display the elements of the array using the pointer
+    printf("The elements of the array are:\n");
     for(i = 0; i < n; i++) {
-        printf("%d ", *p);
-        p++;
+        printf("%d ", *(p + i));
     }
 
     printf("\n");
