@@ -18,4 +18,3 @@ int main() {
     printf("%d %s %f %c\n", s.roll_number, s.name, s.marks, s.grad);
     return 0; 
 }
-
