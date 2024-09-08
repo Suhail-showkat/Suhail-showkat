@@ -32,17 +32,4 @@ int main()
     printf ("%d\n",r);
  
     return 0;
-    
-    return 0;
-    return 0;
-    return 0;
-    return 0;
-    return 0;
-    return 0;
-    return 0;
-    return 0;
-    return 0;
-    return 0;
-    return 0;
-    return 0;
 }
