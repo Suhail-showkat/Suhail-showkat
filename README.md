@@ -15,11 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/suhailshow66163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suhailshow66163" height="30" width="40" /></a>
-<a href="https://instagram.com/suhail.showkat_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhail.showkat_" height="30" width="40" /></a>
-</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
   <a href="https://twitter.com/suhailshow66163" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suhailshow66163" height="30" width="40" />
   </a>
